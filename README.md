@@ -11,7 +11,7 @@
 </h4>
 
 <h4 align="center">
-<a href="./README-CH.md">中文版 README</a>
+<a href="README-zh.md">中文版 README</a>
 </h4>
 
 ---
